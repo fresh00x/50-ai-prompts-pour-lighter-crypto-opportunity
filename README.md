@@ -1,4 +1,4 @@
-# 50 AI Prompts pour Lighter Crypto Opportunity
+# 50-ai-prompts-pour-lighter-crypto-opportunity
 
 Découvrez notre pack de prompts AI spécifiquement conçus pour la niche du lighter crypto opportunity. Ces prompts vous permettront d'exploiter pleinement les capacités de vos modèles de langage pour g
 
@@ -6,7 +6,7 @@ Découvrez notre pack de prompts AI spécifiquement conçus pour la niche du lig
 
 | Property | Value |
 |---|---|
-| Records | 37 |
+| Records | 3 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Découvrez notre pack de prompts AI spécifiquement conçus pour la niche du lig
 ## Sample
 
 ```json
-"Quelles sont les principales caractéristiques des cryptomonnaies légères qui les rendent attractives pour les investisseurs?"
+Keys: title, description, price
 ```
 
 ## Usage
